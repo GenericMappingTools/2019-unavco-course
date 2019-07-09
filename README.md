@@ -13,7 +13,7 @@ Material for the 2019 UNAVCO Short Course.
 July 22-23 (Monday-Tuesday), 2019. 9:00 pm - 5:00 pm (beach time 5-6 pm)
 
 **Where**:
-Scripps Institution ofz Oceanography, La Jolla, CA
+Scripps Institution of Oceanography, La Jolla, CA
 
 **Bring**:
 Participants must **bring their own computers** (Mac, Windows, or Linux) with the
@@ -71,6 +71,7 @@ You will need to build from source.  You can either download the
 6.0.0rc2 tarball (plus GSHHG and DCW) from the GMT download site at
 http://gmt.soest.hawaii.edu/projects/gmt/wiki/Download and follow
 the BUILDING instructions at https://github.com/GenericMappingTools/gmt/blob/master/BUILDING.md.
+Your Linux software manager can be used to install all prerequisites and run-time requirements.
 **NOTE:** We will use features of GMT that are being introduced in GMT 6.  If you
 show up with a GMT 5 installation then you will not be able to participate in the
 tasks we have planned for the short course!
@@ -87,7 +88,8 @@ http://gmt.soest.hawaii.edu/projects/gmt/wiki/Download and follow
 the BUILDING instructions at https://github.com/GenericMappingTools/gmt/blob/master/BUILDING.md.
 If you don't have a Unix-tool manager (macports, fink, homebrew) we recommend
 you start with homebrew to install all the prerequisites, run-time tools, and
-build GMT itself.  There are also precompiled macOS executables for ffmpeg at https://ffmpeg.zeranoe.com/builds.
+build GMT itself.  There are also precompiled macOS executables for ffmpeg at
+https://ffmpeg.zeranoe.com/builds.
 
 ## Windows install details
 
