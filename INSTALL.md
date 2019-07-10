@@ -14,7 +14,7 @@ and other software that will be used. Here is a summary of what you'll need:
 * [Ghostscript](https://ghostscript.com/): Used by GMT to convert postscript (GMT's
   native graphics format) into PNG, PDF, etc.
 * [GDAL](https://gdal.org/): Library used by GMT for reading and writing raster and
-  vector geospatial data formats.
+  vector geospatial data formats (pre-installed on Windows).
 * [ffmpeg](https://ffmpeg.org/): Video creating and conversion software used to make GMT
   animations.
 * A text editor of your choice (see [instructions below](#install-a-text-editor)).
