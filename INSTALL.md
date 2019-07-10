@@ -142,7 +142,7 @@ Make sure you also [have a text editor installed](#install-a-text-editor).
 
 1. Download and install the GMT windows installer `gmt-6.0.0rc2-win64.exe` from the
    [GMT 6.0.0rc2 release page](https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc2)
-2. Download and install Ghostscript AGPL Release [from the official website](https://ghostscript.com/download/gsdnld.html)
+2. Download and install Ghostscript `gs926aw64.exe` [from the official website](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/tag/gs926)
 3. Download and install ffmpeg by [following these instructions](https://www.wikihow.com/Install-FFmpeg-on-Windows)
    (including "Enabling FFmpeg in the Command Line")
 
