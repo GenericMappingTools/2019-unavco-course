@@ -27,7 +27,7 @@ various data sets relevant to geodesy.
 
 ## Schedule
 
-|  **When?**  | **Topic** | **Duration** |
+|  **When**   | **Topic** | **Duration** |
 |:------------|:----------|:-------------|
 | **Day 1**   | | |
 | 08:30-09:00 | *Breakfast*     | 30 min |
@@ -62,14 +62,15 @@ minimize the time spent troubleshooting installation problems.  For
 this short course we will use GMT 6.0.0rc2 or later (the master
 branch in GitHub is fine, too).  In addition to GMT 6, you will also need to have the
 following executables installed as well: GhostScript (required to
-make PDF and raster images), FFmPEG (required to make animations),
+make PDF and raster images), ffmpeg (required to make animations),
 and ogr2ogr (part of GDAL; required to read Shapefiles).
 
 ## Linux install details
 
 You will need to build from source.  You can either download the
 6.0.0rc2 tarball (plus GSHHG and DCW) from the GMT download site at
-http://gmt.soest.hawaii.edu/projects/gmt/wiki/Download and follow
+http://gmt.soest.hawaii.edu/projects/gmt/wiki/Download or clone the
+master branch directly from GitHub, then follow
 the BUILDING instructions at https://github.com/GenericMappingTools/gmt/blob/master/BUILDING.md.
 Your Linux software manager can be used to install all prerequisites and run-time requirements.
 **NOTE:** We will use features of GMT that are being introduced in GMT 6.  If you
@@ -81,7 +82,7 @@ tasks we have planned for the short course!
 You can either use the macOS installer from the download site at
 http://gmt.soest.hawaii.edu/projects/gmt/wiki/Download or you can
 build from source (see Linux above).  If you install from the bundle
-then you will also need to separately install gs, ffmpeg, and gdal executables.
+then you will also need to separately install gs, ffmpeg, and GDAL executables.
 If you install from source then you can either download the
 6.0.0rc2 tarball (plus GSHHG and DCW) from the GMT download site at
 http://gmt.soest.hawaii.edu/projects/gmt/wiki/Download and follow
