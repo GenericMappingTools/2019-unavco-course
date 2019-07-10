@@ -10,7 +10,7 @@ Material for the 2019 UNAVCO Short Course.
 [Xiaohua Xu](https://www.researchgate.net/profile/Xiaohua_Xu7)
 
 **When**:
-July 22-23 (Monday-Tuesday), 2019. 9:00 pm - 5:00 pm (beach time 5-6 pm)
+July 22-23 (Monday-Tuesday), 2019. 9:00 am - 5:00 pm (beach time 5-6 pm)
 
 **Where**:
 Scripps Institution of Oceanography, La Jolla, CA
@@ -34,8 +34,8 @@ Please follow
 
 ## Need help?
 
-If have any trouble installing or questions about the course/homeworks, there are a few
-you ways to ask for help:
+If you have any trouble installing or questions about the course/homeworks,
+there are a few ways to ask for help:
 
 * Open an *Issue* on this repository by
   [clicking here](https://github.com/GenericMappingTools/2019-unavco-course/issues/new/choose).

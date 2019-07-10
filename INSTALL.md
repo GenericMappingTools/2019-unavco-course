@@ -60,7 +60,7 @@ Unfortunately, you cannot use your system package manager to install GMT because
 course requires GMT 6, which is not available on most distributions.
 
 Most Linux distributions come with a text editor installed. You may also
-[install Visual Studio Code](#install-a-text-editor) is you want but it is not required.
+[install Visual Studio Code](#install-a-text-editor) if you want but it is not required.
 
 ### Installing with conda
 
@@ -152,8 +152,6 @@ Make sure you also [have a text editor installed](#install-a-text-editor).
 Follow the
 ["Building from source" instructions](https://github.com/GenericMappingTools/gmt/blob/master/BUILDING.md)
 from the GMT repository.
-
-Other dependencies
 
 
 ## Install a text editor
