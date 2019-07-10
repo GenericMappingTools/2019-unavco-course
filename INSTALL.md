@@ -64,7 +64,7 @@ Most Linux distributions come with a text editor installed. You may also
 
 ### Installing with conda
 
-1. Download and install the [Python **3.7** version of Miniconda](https://conda.io/en/latest/miniconda.html).
+1. Download and install the [Python **3.7** **64-bit** version of Miniconda](https://conda.io/en/latest/miniconda.html).
    This will give you access to the conda package manager. **Make sure you select to
    have conda added to your `PATH` when asked by the installer**. If you have
    the Anaconda Python distribution installed, you won't need to do this step.
