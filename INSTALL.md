@@ -106,6 +106,7 @@ Make sure you also [have a text editor installed](#install-a-text-editor).
    the "Terminal" app, type this in, and hit *Enter*):
 
    ```
+   brew update
    brew install gdal ghostscript ffmpeg
    ```
 
