@@ -134,6 +134,8 @@ To install GMT, we'll use the Windows installer:
 2. Download and install the GMT Windows installer `gmt-6.0.0_2019.07.11-win64.exe`
    from [this link](http://w3.ualg.pt/~jluis/mirone/gmt-6.0.0_2019.07.11-win64.exe).
    It comes with GDAL and ffmpeg pre installed.
+   (if downloading from the above is too slow you can try this
+   [DropBox link](https://www.dropbox.com/s/ncgs0d9h5uqtep5/gmt-6.0.0_2019.07.11-win64.exe?dl=0) )
 
 Make sure you also [have a text editor installed](#install-a-text-editor).
 
