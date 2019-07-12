@@ -131,8 +131,8 @@ To install GMT, we'll use the Windows installer:
 
 1. Download and install Ghostscript `gs926aw64.exe`
    [from the official website](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/tag/gs926)
-2. Download and install the GMT Windows installer `gmt-6.0.0_2019.07.10-win64.exe`
-   from [this link](http://w3.ualg.pt/~jluis/mirone/gmt-6.0.0_2019.07.10-win64.exe).
+2. Download and install the GMT Windows installer `gmt-6.0.0_2019.07.11-win64.exe`
+   from [this link](http://w3.ualg.pt/~jluis/mirone/gmt-6.0.0_2019.07.11-win64.exe).
    It comes with GDAL and ffmpeg pre installed.
 
 Make sure you also [have a text editor installed](#install-a-text-editor).
