@@ -57,6 +57,7 @@ there are a few ways to ask for help:
 | 03:15-03:30 | *Break*         | 15 min |
 | 03:30-04:45 | Grids and images      | 105 min |
 | 04:45-05:00 | Wrap up         | 15 min |
+| 06:00-07:30 | Pizza (Munch room)         | 90 min |
 | **Day 2** | | |
 | 08:30-09:00 | *Breakfast*     | 30 min |
 | 09:00-10:30 | Seismology | 90 min |
