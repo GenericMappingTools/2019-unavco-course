@@ -7,10 +7,10 @@
 > have any trouble or questions. [We're here to help you work through it!](#need-help)
 
 
-Please follow these instructions to install **GMT 6.0.0rc2** (rc = release candidate)
+Please follow these instructions to install **GMT 6.0.0rc3** (rc = release candidate)
 and other software that will be used. Here is a summary of what you'll need:
 
-* GMT 6.0.0rc2 and its dependencies
+* GMT 6.0.0rc3 and its dependencies
 * [Ghostscript](https://ghostscript.com/): Used by GMT to convert postscript (GMT's
   native graphics format) into PNG, PDF, etc.
 * [GDAL](https://gdal.org/): Library used by GMT for reading and writing raster and
@@ -49,7 +49,7 @@ Key things you need to tell us so that we can help you:
 
 ## Linux
 
-There are 2 options for installing GMT 6.0.0rc2:
+There are 2 options for installing GMT 6.0.0rc3:
 
 1. Use the [conda package manager](https://conda.io/en/latest/) to install
    binaries for GMT and all dependencies (**recommended**)
@@ -84,7 +84,7 @@ Most Linux distributions come with a text editor installed. You may also
 
 ## Mac
 
-There are 3 options for installing GMT 6.0.0rc2 on Mac:
+There are 3 options for installing GMT 6.0.0rc3 on Mac:
 
 1. Use the GMT bundle installer and install dependencies separately using Homebrew
    (**recommended**)
@@ -100,8 +100,8 @@ Make sure you also [have a text editor installed](#install-a-text-editor).
 
 1. Download and install [Homebrew](https://brew.sh/) (a package manager for Mac that we
    can use to install our dependencies)
-2. Download and install the bundle `gmt-6.0.0rc2-darwin-x86_64.dmg` from the
-   [GMT 6.0.0rc2 release page](https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc2)
+2. Download and install the bundle `gmt-6.0.0rc3-darwin-x86_64.dmg` from the
+   [GMT 6.0.0rc3 release page](https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc3)
 3. Install Ghostscript, GDAL, and ffmpeg by running the following in a terminal (open
    the "Terminal" app, type this in, and hit *Enter*):
 
