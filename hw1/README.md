@@ -17,7 +17,7 @@ that you get the correct output.
 
 0. Fill out the following survey so that we can better prepare for the workshop:
    https://forms.gle/1e8kBsN22KSjhioN9
-1. Follow the [intall instructions](../INSTALL.md) to setup your computer.
+1. Follow the [install instructions](../INSTALL.md) to setup your computer.
 2. Open a terminal (Mac: open the "Terminal" app; Windows: open "Git Bash").
    The following steps should be done in the terminal.
    To run a command, type it out and press *Enter*.
