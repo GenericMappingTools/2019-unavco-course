@@ -68,11 +68,11 @@ Most Linux distributions come with a text editor installed. You may also
    This will give you access to the conda package manager. **Make sure you select to
    have conda added to your `PATH` when asked by the installer**. If you have
    the Anaconda Python distribution installed, you won't need to do this step.
-2. Install GMT 6.0.0rc2 and its dependencies (including ghostscript and gdal) by running
+2. Install GMT 6.0.0rc3 and its dependencies (including ghostscript and gdal) by running
    the following in a terminal:
 
    ```
-   conda install gmt=6.0.0rc2 -c conda-forge/label/dev -c conda-forge
+   conda install gmt=6.0.0rc3 -c conda-forge/label/dev -c conda-forge
    ```
 
 3. Install ffmpeg using conda by running the following in a terminal:
