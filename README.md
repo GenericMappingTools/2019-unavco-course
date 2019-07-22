@@ -42,6 +42,16 @@ there are a few ways to ask for help:
   You'll need a GitHub account to do this.
 * Post to our [Gitter chatroom](https://gitter.im/GenericMappingTools/2019-unavco-course)
 
+## Slides and notes
+
+The slides with notes for the course are available in this
+Google Drive folder:
+https://drive.google.com/drive/folders/1zElyVNOYKK_Uea9FWCTlvYig75KZlzjZ?usp=sharing
+
+We also have shared notes on this Google Docs:
+https://docs.google.com/document/d/1TzWVXUwHRVdQki1kKNr07CU9-0bUPRsLCQTdVyutlNg/edit?usp=sharing
+
+
 ## Schedule
 
 | **Day 1**   | | |
@@ -68,12 +78,6 @@ there are a few ways to ask for help:
 | 03:00-03:15 | *Break*         | 15 min |
 | 03:15-04:45 | Final projects      | 90 min |
 | 04:45-05:00 | Wrap up         | 15 min |
-
-## Slides
-
-The slides with notes for the course are available in this
-Google Drive folder:
-https://drive.google.com/drive/folders/1zElyVNOYKK_Uea9FWCTlvYig75KZlzjZ?usp=sharing
 
 ## License
 
