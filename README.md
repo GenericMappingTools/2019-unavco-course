@@ -69,6 +69,12 @@ there are a few ways to ask for help:
 | 03:15-04:45 | Final projects      | 90 min |
 | 04:45-05:00 | Wrap up         | 15 min |
 
+## Slides
+
+The slides with notes for the course are available in this
+Google Drive folder:
+https://drive.google.com/drive/folders/1zElyVNOYKK_Uea9FWCTlvYig75KZlzjZ?usp=sharing
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This content is licensed under a
