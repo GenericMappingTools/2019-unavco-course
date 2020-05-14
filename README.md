@@ -42,7 +42,10 @@ there are a few ways to ask for help:
   You'll need a GitHub account to do this.
 * Post to our [Gitter chatroom](https://gitter.im/GenericMappingTools/2019-unavco-course)
 
-## Slides and notes
+## Video, Slides and Notes
+
+The workshop video recording can be found on Youtube:
+https://www.youtube.com/playlist?list=PLzmugeDoplFMwr1W7dgmwf26p83ie6ZEN
 
 The slides with notes for the course are available in this
 Google Drive folder:
